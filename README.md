@@ -1,11 +1,11 @@
 ### Olá! Me chamo Alison Caetano! 👋
 
-- 🔭 Sou programador e Analista de Suporte I com Helpdesk, soluciono demandas de front-end geradas por clientes de uma plataforma de e-commerce da empresa <a href="https://www.magazord.com.br/">Magazord</a>.
-- 🌱 Estou estudando Javascript com foco em React e em seguida focar em Nodejs para entregar soluções de ponta a ponta.
-- 👯 Caso você seja uma ONG, fique a vontade em me convidar para voluntáriado!
-- 📫 Contate-me no e-mail: alizoncaetano@gmail.com
-- 😄 Pronomes: Ele/dele
-- ⚡ Curiosidade: Sou Barman nas horas vagas!
+ 🔭 Sou programador e Analista de Suporte I com Helpdesk, soluciono demandas de front-end geradas por clientes de uma plataforma de e-commerce da empresa <a href="https://www.magazord.com.br/">Magazord</a>.
+ 🌱 Estou estudando Javascript com foco em React e em seguida focar em Nodejs para entregar soluções de ponta a ponta.
+ 👯 Caso você seja uma ONG, fique a vontade em me convidar para voluntáriado!
+ 📫 Contate-me no e-mail: alizoncaetano@gmail.com
+ 😄 Pronomes: Ele/dele
+ ⚡ Curiosidade: Sou Barman nas horas vagas!
 
 ##
 
