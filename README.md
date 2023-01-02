@@ -1,10 +1,15 @@
 ### Olá! Me chamo Alison Caetano! 👋
 
  🔭 Sou programador e Analista de Suporte I com Helpdesk, soluciono demandas de front-end geradas por clientes de uma plataforma de e-commerce da empresa <a href="https://www.magazord.com.br/">Magazord</a>.
+ 
  🌱 Estou estudando Javascript com foco em React e em seguida focar em Nodejs para entregar soluções de ponta a ponta.
+ 
  👯 Caso você seja uma ONG, fique a vontade em me convidar para voluntáriado!
+ 
  📫 Contate-me no e-mail: alizoncaetano@gmail.com
+ 
  😄 Pronomes: Ele/dele
+ 
  ⚡ Curiosidade: Sou Barman nas horas vagas!
 
 ##
@@ -21,8 +26,8 @@
 
 <div align="center">
   <a href="https://github.com/AlizonCaetano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlizonCaetano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlizonCaetano&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=AlizonCaetano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlizonCaetano&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ##
