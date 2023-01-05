@@ -4,7 +4,7 @@
  
  🌱 Estou estudando Javascript com foco em React e em seguida focar em Nodejs para entregar soluções de ponta a ponta.
  
- 👯 Caso você seja uma ONG, fique a vontade em me convidar para voluntáriado!
+ 👯 Caso você seja de uma ONG, me conte sua causa e me convide como voluntário!
  
  📫 Contate-me no e-mail: alizoncaetano@gmail.com
  
