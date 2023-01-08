@@ -8,7 +8,7 @@
  
  📫 Contate-me no e-mail: alizoncaetano@gmail.com
  
- 😄 Pronomes: Ele/dele
+ 😄 Confira meu portfólio: https://alison-dev.vercel.app/
  
  ⚡ Curiosidade: Sou Barman nas horas vagas!
 
