@@ -2,15 +2,12 @@
 
  🔭 Sou programador e Analista de Suporte I com Helpdesk, soluciono demandas de front-end geradas por clientes de uma plataforma de e-commerce da empresa <a href="https://www.magazord.com.br/">Magazord</a>.
  
- 🌱 Estou estudando Javascript com foco em React e em seguida focar em Nodejs para entregar soluções de ponta a ponta.
- 
- 👯 Caso você seja de uma ONG, me conte sua causa e me convide como voluntário!
+ 🌱 Minha stack: Javascript, React, Nodejs, SQlite, Knex.
  
  📫 Contate-me no e-mail: alizoncaetano@gmail.com
  
  😄 Confira meu portfólio: https://alison-dev.vercel.app/
- 
- ⚡ Curiosidade: Sou Barman nas horas vagas!
+
 
 ##
 
