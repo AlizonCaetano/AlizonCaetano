@@ -5,30 +5,7 @@
  🌱 Minha stack: Javascript, React, Nodejs, SQlite, Knex.
  
  📫 Contate-me no e-mail: alizoncaetano@gmail.com
- 
- 😄 Confira meu portfólio: https://alison-dev.vercel.app/
 
-
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alison-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Alison-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Alison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-</div>
-
-### Com minha experiência com suporte e pessoas, te entrego projetos de entrada com confiança, agilidade e alta aceitação do cliente final!
-
-<div align="center">
-  <a href="https://github.com/AlizonCaetano">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=AlizonCaetano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlizonCaetano&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-  ##
- 
 <div> 
   <a href = "mailto:alizoncaetan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alisoncaetano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -36,3 +13,17 @@
   ![Snake animation](https://github.com/AlizonCaetano/AlizonCaetano/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ 😄 Confira meu portfólio: https://alison-dev.vercel.app/
+
+##
+
+<div align="center">
+  <a href="https://github.com/AlizonCaetano">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=AlizonCaetano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlizonCaetano&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+##
+ 
+
