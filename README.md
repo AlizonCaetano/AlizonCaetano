@@ -1,11 +1,9 @@
 ### Olá! Me chamo Alison Caetano! 👋
 
- 🔭 Sou programador e Analista de Suporte I com Helpdesk, soluciono demandas de front-end geradas por clientes de uma plataforma de e-commerce da empresa <a href="https://www.magazord.com.br/">Magazord</a>.
+ 🔭 Sou programador e Analista de Suporte na <a href="https://www.magazord.com.br/">Magazord</a>.
  
- 🌱 Minha stack: Javascript, React, Nodejs, SQlite, Knex.
+ 🌱 Estou estudando Ciência da Computação em <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">Harvard School of Engineering and Applied Sciences</a>
  
- 📫 Contate-me no e-mail: alizoncaetano@gmail.com
-
 <div> 
   <a href = "mailto:alizoncaetan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alisoncaetano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
