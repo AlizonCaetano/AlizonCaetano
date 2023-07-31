@@ -1,8 +1,8 @@
 ### Olá! Me chamo Alison Caetano! 👋
 
- 🔭 Sou programador e Analista de Suporte na <a href="https://www.magazord.com.br/">Magazord</a>.
+ 🔭 Sou programador freelancer e Analista de Suporte na <a href="https://www.magazord.com.br/">Magazord</a>.
  
- 🌱 Estou estudando Ciência da Computação em <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">Harvard School of Engineering and Applied Sciences</a>
+ 🌱 Estudo Ciência da Computação em <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">Harvard School of Engineering and Applied Sciences</a>
  
 <div> 
   <a href = "mailto:alizoncaetan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
