@@ -1,8 +1,8 @@
-### Olá! Me chamo Alison Caetano! 👋
+### Alison Caetano! 👋
 
- 🔭 Sou programador freelancer e Analista de Suporte na <a href="https://www.magazord.com.br/">Magazord</a>.
+ 🔭 Quality Assurance on <a href="https://www.portlouis.inf.br/">PortLouis</a>.
  
- 🌱 Estudo Ciência da Computação em <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">Harvard School of Engineering and Applied Sciences</a>
+ 🌱 CC50 on <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">Harvard School of Engineering and Applied Sciences</a>
  
 <div> 
   <a href = "mailto:alizoncaetan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -10,7 +10,7 @@
   
 </div>
  
- 😄 Confira meu portfólio: https://alison-dev.vercel.app/
+ 😄 My projects: https://alison-dev.vercel.app/
 
 ##
 
