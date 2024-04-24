@@ -2,7 +2,7 @@
 
  🔭 Quality Assurance on <a href="https://www.portlouis.inf.br/">PortLouis</a>.
  
- 🌱 CC50 on <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">Harvard School of Engineering and Applied Sciences</a>
+ 🌱 CS50 on <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">Harvard School of Engineering and Applied Sciences</a>
  
 <div> 
   <a href="https://www.linkedin.com/in/alisoncaetano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
