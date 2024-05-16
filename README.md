@@ -3,6 +3,7 @@
  🌱 Quality Assurance on <a href="https://www.portlouis.inf.br/">PortLouis</a>.
  
  🌱 CS50 on <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">Harvard School of Engineering and Applied Sciences</a>
+ 
  😄 My projects: https://alison-dev.vercel.app/
 
 <div> 
