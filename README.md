@@ -2,7 +2,7 @@
 
  🌱 Sou QA na <a href="https://www.portlouis.inf.br/">PortLouis</a>.
  
- 🌱 Estudo Engenharia de Software na on <a href="https://www.udesc.br/ceavi">UDESC</a>
+ 🌱 Estudo Engenharia de Software na <a href="https://www.udesc.br/ceavi">UDESC</a>
 
 <div> 
  <a href="https://www.linkedin.com/in/alisoncaetano" target="_blank">
