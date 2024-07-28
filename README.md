@@ -1,10 +1,8 @@
-### I am Alison Caetano! 👋
+### 👋 Me chamo Alison Caetano 
 
- 🌱 QA on <a href="https://www.portlouis.inf.br/">PortLouis</a>.
+ 🌱 Sou QA na <a href="https://www.portlouis.inf.br/">PortLouis</a>.
  
- 🌱 CS50 on <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">Harvard School of Engineering and Applied Sciences</a>
- 
- 😄 My projects: https://alison-dev.vercel.app/
+ 🌱 Estudo Engenharia de Software na on <a href="https://www.udesc.br/ceavi">UDESC</a>
 
 <div> 
  <a href="https://www.linkedin.com/in/alisoncaetano" target="_blank">
