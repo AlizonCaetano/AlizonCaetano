@@ -1,4 +1,4 @@
-🌱 QA <a href="https://www.portlouis.inf.br/">PortLouis</a>.
+🌱 QA <a href="https://www.portlouis.inf.br/">PortLouis</a>
  
 🌱 Engenharia de Software <a href="https://www.udesc.br/ceavi">UDESC</a>
 
